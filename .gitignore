@@ -1,0 +1,10 @@
+# Archivos y carpetas temporales
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.db
+*.DS_Store
+.env
